@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PrimeiroprojetospringbatchApplication {
+public class ParImparJobApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PrimeiroprojetospringbatchApplication.class, args);
+		SpringApplication.run(ParImparJobApplication.class, args);
 	}
 
 }
